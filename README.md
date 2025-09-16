@@ -3,6 +3,7 @@
 ### REGISTER NUMBER : 212223040214
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
+
 ## **Scenario and Use Case**  
 **Scenario:** The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation.  
 **Use Case:** IoT devices and embedded controllers are used to automate equipment, monitor performance, and enable predictive maintenance.  
